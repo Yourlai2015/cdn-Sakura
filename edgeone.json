@@ -25,8 +25,8 @@
           "value": "*"
         },
         {
-          "key": "Content-Type", // 添加 MIME 类型
-          "value": "application/x-navi-animation" // 标准 .ani MIME 类型
+          "key": "Content-Type",
+          "value": "application/x-navi-animation"
         }
       ]
     }
