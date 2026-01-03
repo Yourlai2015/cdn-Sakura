@@ -16,6 +16,15 @@
           "value": "Origin"
         }
       ]
+    },
+    {
+      "source": "/img/Sakura/linecat/*.ani",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
     }
   ]
 }
