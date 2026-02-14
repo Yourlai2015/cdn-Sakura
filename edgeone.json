@@ -16,6 +16,23 @@
           "value": "Origin"
         }
       ]
+    },
+    {
+      "source": "/fonts/googlefonts/*",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Access-Control-Allow-Methods",
+          "value": "GET"
+        },
+        {
+          "key": "Vary",
+          "value": "Origin"
+        }
+      ]
     }
   ]
 }
